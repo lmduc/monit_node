@@ -1,4 +1,4 @@
-set daemon 50
+set daemon 60
 
 set logfile /monit_node/logs.log
 
